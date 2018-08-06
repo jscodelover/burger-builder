@@ -1,0 +1,16 @@
+.order{
+	border : 1 solid #eee;
+	box-shadow: 0 2px 3px #ccc;
+	padding: 10px;
+	box-sizing: border-box;
+	width: 80%;
+	margin: 10px auto;
+}
+
+.ingredients {
+	display: inline-block;
+	text-transform: capitalize;
+	border : 1px solid #ccc;
+	margin: 0 8px;
+	padding: 5px;
+}
